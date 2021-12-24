@@ -1,8 +1,10 @@
-# UPWORK WEB SCRAPING PORTFOLIO
+# MY FREELANCER PORTFOLIO
 
-This repository is destinated to future upwork clients with the purpose of gather all my personal python web scraping projects in one place.
+This repository is destinated to future clients with the purpose of gather all my projects in one place.
 
-## PROJECT 01 - POKEMON GO WEB SCRAPING USING PYTHON
+## WEB SCRAPING PROJECTS
+
+### PROJECT 01 - POKEMON GO WEB SCRAPING USING PYTHON
 
 This project consists of a python script that is capable of scrape data from a list of links.
 
