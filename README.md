@@ -1,6 +1,6 @@
 # MY FREELANCER PORTFOLIO
 
-This repository is destinated to future clients with the purpose of gather all my projects in one place.
+This page aims to serve as a portfolio for projects made by me. These projects serve as evidence of my expertise in the areas I work in.
 
 ## WEB SCRAPING PROJECTS
 
