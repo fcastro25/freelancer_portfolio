@@ -6,7 +6,7 @@ This page aims to serve as a portfolio for projects made by me. These projects s
 
 ### PROJECT 01 - POKEMON GO WEB SCRAPING USING PYTHON
 
-This project consists of a Python script capable of scraping data from a list of links.
+This project consists of a Python script capable of scraping data from a list of links using the BeautifulSoup library.
 
 The chosen website to be scraped was the following -> [Pokemon go wiki - fandom](https://pokemongo.fandom.com/wiki/)
 
