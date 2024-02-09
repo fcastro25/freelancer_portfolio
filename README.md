@@ -10,7 +10,11 @@ This project consists of a Python script capable of scraping data from a list of
 
 The chosen website to be scraped was the following -> [Pokemon go wiki - fandom](https://pokemongo.fandom.com/wiki/)
 
-Firstly, a function called "link_scraper" scans the website and returns the list of links relative to each Pokémon. This list is used as an input parameter by the function called "info_scraper," where all available information about each Pokémon is scraped. Therefore, the scraping part of the script is a two-step process, and a JSON file is saved as a result by the function "save_json."
+1. Firstly, a function named "link_scraper" scans the website and retrieves the list of links associated with each Pokémon.
+2. This list of links serves as an input parameter for the function named "info_scraper."
+3. Within the "info_scraper" function, all available information about each Pokémon is scraped from the respective links.
+4. Consequently, the scraping process within the script involves two steps.
+5. Finally, the function "save_json" saves the scraped data as a JSON file.
 
 <details>
   <summary> <b> Project prints... </b> <i>(click to expand!)</i> </summary>
